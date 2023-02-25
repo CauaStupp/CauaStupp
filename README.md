@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @CauaStupp
-- 👀 I’m interested in React and outher frameworks 
+- 👀 I’m interested in NodeJS and API REST
 - 🌱 I’m currently learning Web Designer Full Stack
 - 📫 How to reach me with my Email - caua80190@gmail.com
 
